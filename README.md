@@ -41,7 +41,7 @@ The app includes **prompt-injection protection** and an **offline fallback mode*
 
 ## ⚡ Demo
 
-👉 [Insert link to your deployed Streamlit app here]
+👉 https://insightstream-hj.streamlit.app/
 
 ---
 
