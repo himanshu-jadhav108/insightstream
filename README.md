@@ -2,7 +2,6 @@
 
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)  
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **InsightStream** is an AI-powered data analytics platform built with **Streamlit**, **Pandas**, and **Plotly**.  
 It enables users to upload CSV datasets, ask natural language questions, and instantly generate:
@@ -140,23 +139,6 @@ Steps:
 3. Specify `app.py` as the entry point.  
 4. Add API key in **Secrets**.  
 5. Deploy and share the link.  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉  
-- Fork the repo  
-- Create a feature branch (`git checkout -b feature-name`)  
-- Commit changes (`git commit -m "Add feature"`)  
-- Push to branch (`git push origin feature-name`)  
-- Open a Pull Request  
-
----
-
-## 📝 License
-
-MIT License — free to use and modify.
 
 ---
 
